@@ -165,4 +165,4 @@ This project demonstrates that COLMAP and ORB-SLAM2 represent complementary appr
 For a complete demonstration of the ORB-SLAM2 run, watch the video here: [ORB-SLAM2 Run Video](https://www.youtube.com/watch?v=cdpqa8rYRX4)
 
 ### Full Report
-The complete project report is available [here](./assets/Report.pdf).
+The complete project report is available [here](./Report.pdf).
